@@ -1,0 +1,242 @@
+TOPIC: Upper layer traffic steering, switching, and splitting over dual 3GPP access
+Definition: Apple suggests enhancing the 5G system architecture to enable an MA PDU Session to simultaneously support two 3GPP access paths. This includes studying PLMN/SNPN selection, registration and session management procedures, and supporting mobility between different access configurations.
+Usecases: Simultaneous support for dual 3GPP access, seamless mobility between access configurations, improved PLMN/SNPN selection and management.
+Examples: Enhancing registration and session management procedures, supporting mobility between different access paths, extending policies and steering functionalities.
+Unique keywords: Upper layer traffic steering, dual 3GPP access, PLMN/SNPN, registration, mobility.
+Company Name: Apple
+Company Block Name: Software developer
+
+TOPIC: System Architecture enablers for AI/ML Radio
+Definition: Apple explores enhancements to enable AI/ML (Artificial Intelligence/Machine Learning) Radio in the 5G system. This includes studying a common AI/ML framework, enhancing UE data collection, supporting model transfer, and ensuring security and privacy.
+Usecases: Enabling AI/ML Radio, improved UE data collection, secure model transfer, common AI/ML framework.
+Examples: Enhancing UE data collection for AI/ML model training, supporting secure model transfer, studying AI/ML framework for 5GS.
+Unique keywords: AI/ML Radio, UE data collection, model transfer, security, privacy.
+Company Name: Apple
+Company Block Name: Software developer
+
+TOPIC: Emergency SMS over IMS
+Definition: Apple suggests studying architectural evolutions to support Emergency SMS (Short Message Service) over IMS (IP Multimedia Subsystem) for EPS (Evolved Packet System) and 5GS. This includes routing, IMS emergency registration, and supporting SMS without a USIM/ISIM.
+Usecases: Emergency SMS support, routing to emergency centers, IMS emergency registration, SMS without USIM/ISIM.
+Examples: Architectural enhancements for Emergency SMS, handling of response SM, support for SMS routing in roaming scenarios.
+Unique keywords: Emergency SMS, IMS, routing, emergency registration, response SM.
+Company Name: Apple
+Company Block Name: Software developer
+
+TOPIC: Integration of satellite in 5GS Phase-3
+Definition: Apple proposes further enhancements to 5GS to support satellite access based on new use cases. This includes studying the impacts on core network interfaces, protocols, and mobility management, as well as UE-satellite-UE communication and service continuity.
+Usecases: Enhanced satellite access, regenerative payload architecture study, discontinuous feeder link connection, UE-satellite-UE communication.
+Examples: Studying core network impacts, supporting discontinuous feeder link connection, improving mobility management for satellite access.
+Unique keywords: Satellite integration, core network, UE-satellite-UE communication, discontinuous feeder link, service continuity.
+Company Name: Apple
+Company Block Name: Software developer
+
+TOPIC: Integrated Sensing & Communications
+Definition: Apple focuses on supporting NR-based sensing capabilities in the 5G system to obtain information about the environment and objects using NR RF signals. This includes architectural enhancements, QoS model improvements, and support for non-3GPP sensing data.
+Usecases: NR-based sensing capabilities, architectural enhancements for sensing, QoS support, non-3GPP sensing data.
+Examples: Study of architectural enhancements, improved QoS model for sensing, handling non-3GPP sensing data.
+Unique keywords: Integrated sensing, NR-based sensing, QoS, non-3GPP data.
+Company Name: Apple
+Company Block Name: Software developer
+
+
+TOPIC: Transport level improvements for xR
+Definition: Meta is interested in general transport level improvements for xR (Extended Reality). This includes supporting Layer-4 encrypted protocols, enhancing QoS for burst traffic, handling inter PDU/PDU sets dependencies, implementing UE power-saving features, and improving network exposure for understanding the xR user experience.
+Usecases: Improved transport for xR, support for Layer-4 encrypted protocols, efficient power-saving features, enhanced QoS for burst traffic, network exposure for user experience.
+Examples: Supporting RTP over QUIC with PDU set and QoS classifications, enabling power-saving features aligned with RAN requirements, handling inter PDU/PDU sets dependencies, providing network exposure for xR user experience.
+Unique keywords: Transport level improvements, xR, Layer-4 protocols, power-saving, QoS, network exposure.
+Company Name: Meta
+Company Block Name: Software developer
+
+TOPIC: Privacy and security consideration for avatar communications
+Definition: Meta focuses on privacy and security considerations for avatar communications, both IMS-based and non-IMS based. This includes securing personalized data, preventing reuse of data, and addressing digital identity authentication and Avatar identity.
+Usecases: Privacy and security for avatar communications, securing personalized data, digital identity authentication, distinguishing Avatar identity from UE identity.
+Examples: Ensuring privacy and security in IMS and non-IMS avatar communications, preventing reuse of personalized data, addressing authentication of Avatar identity.
+Unique keywords: Privacy, security, avatar communications, IMS-based, non-IMS based, personalized data, digital identity.
+Company Name: Meta
+Company Block Name: Software developer
+
+TOPIC: Avatar capturing, animation, and representation, and media codec requirements
+Definition: Meta explores UE enhancements for avatar communications, including capturing/generation of avatars, encoding sensor data for facial expressions and gestures, and ensuring compatibility between different avatar representations. They also consider media codec, session setup protocols, and interworking between IMS and non-IMS avatar communications.
+Usecases: UE enhancements for avatar communications, avatar capturing and representation, encoding sensor data, media codec and session setup requirements, interworking between IMS and non-IMS avatars.
+Examples: UE requirements for avatar capturing/generation, encoding of sensor data, transcoding between avatar representations, considering media codec and session setup within 3GPP ecosystem, facilitating interworking between IMS and non-IMS avatars.
+Unique keywords: Avatar capturing, animation, representation, media codec, session setup, interworking, IMS-based, non-IMS based.
+Company Name: Meta
+Company Block Name: Software developer
+
+
+TOPIC: AI/ML enablers
+Definition: Google is interested in AI/ML enablers for various categories, including data/model sharing and coordination among UE, RAN, CN, APP, and IoT devices. They emphasize mobility, interoperability, and security and privacy protection.
+Usecases: AI/ML integration, data/model sharing, mobility support, interoperability, security and privacy protection.
+Examples: AIML_Ph2 (sidelink), AIMLsys R18, coordination among different devices, security and privacy measures.
+Unique keywords: AI/ML enablers, data sharing, mobility, security, AIML_Ph2, AIMLsys.
+Company Name: Google
+Company Block Name: Software developer
+
+TOPIC: eXRM
+Definition: Google is interested in eXRM (Extended Reality Media) for various categories, including physical/digital user identification and information exposure, support for encrypted traffic, and security and privacy protection.
+Usecases: eXRM integration, user identification, encrypted traffic support, security and privacy protection.
+Examples: Metaverse, XRM R18, physical/digital user identification, security measures.
+Unique keywords: eXRM, user identification, encrypted traffic, Metaverse, XRM.
+Company Name: Google
+Company Block Name: Software developer
+
+TOPIC: Multiple Accesses
+Definition: Google is interested in multiple accesses, such as dual 3GPP accesses (TN and/or NTN), single subscription with multiple registrations, and lightweight ATSSS (Access Traffic Steering, Switching, and Splitting).
+Usecases: Dual 3GPP accesses, single subscription with multiple registrations, lightweight ATSSS.
+Examples: DualSteer, ATSSS Ph3 R18, TN and NTN access, lightweight ATSSS.
+Unique keywords: Multiple accesses, dual 3GPP accesses, TN, NTN, DualSteer, ATSSS.
+Company Name: Google
+Company Block Name: Software developer
+
+TOPIC: Satellite Architecture
+Definition: Google is interested in satellite architecture, including satellite coverage maps provisioning.
+Usecases: Satellite coverage maps provisioning, satellite architecture.
+Examples: 5GSAT_Ph3, 5GSAT_Ph2 R18, satellite coverage maps.
+Unique keywords: Satellite architecture, satellite coverage maps, 5GSAT_Ph3, 5GSAT_Ph2.
+Company Name: Google
+Company Block Name: Software developer
+
+TOPIC: Ambient IoT
+Definition: Google is interested in Ambient IoT, focusing on new device types, simplified protocol stacks, and lightweight security and privacy protection.
+Usecases: Ambient IoT integration, new device types, simplified protocol stacks, lightweight security and privacy protection.
+Examples: AmbientIoT, new device types, simplified protocols, lightweight security measures.
+Unique keywords: Ambient IoT, new device types, simplified protocols, security, privacy.
+Company Name: Google
+Company Block Name: Software developer
+
+TOPIC: Energy Efficiency
+Definition: Google is interested in energy efficiency enhancements, including EE-centric decision and signaling optimization, with a focus on avoiding UE power consumption consequences.
+Usecases: Energy efficiency improvements, EE-centric decision making, signaling optimization, power consumption reduction.
+Examples: EnergieServ, EE-centric decision making, signaling optimization, power consumption reduction.
+Unique keywords: Energy efficiency, EE-centric, signaling optimization, EnergieServ.
+Company Name: Google
+Company Block Name: Software developer
+
+TOPIC: Integrated Sensing and Communication
+Definition: Google is interested in integrated sensing and communication, with a focus on CN-assisted RAN information, data collection enhancements, and security and privacy protection.
+Usecases: Integrated sensing and communication, CN-assisted RAN information, data collection enhancements, security and privacy protection.
+Examples: Sensing, CN-assisted RAN info, data collection enhancements, security measures.
+Unique keywords: Integrated sensing and communication, CN-assisted, data collection, security, privacy.
+Company Name: Google
+Company Block Name: Software developer
+
+TOPIC: Home gNB with Local GW
+Definition: NTT DOCOMO is interested in the deployment of Home gNB (gNodeB) with Local GW (Gateway) to improve the utilization of mmWave and boost capacity. The objective is to enable customers to easily install and use the Home gNB in a plug-and-play manner.
+Usecases: Improved mmWave utilization, increased capacity, customer-installed home network.
+Examples: Utilization of mmWave, plug-and-play installation, capacity enhancement.
+Unique keywords: Home gNB, Local GW, mmWave, capacity enhancement, plug-and-play installation.
+Company Name: NTT DOCOMO
+Company Block Name: Operators
+
+TOPIC: NG_RTC_Ph2
+Definition: NTT DOCOMO is interested in enhancing the NG_RTC (Next Generation Real-Time Communication) features introduced in Release 18. This includes aspects such as bootstrap DC (Data Channel) only media, coexistence with legacy UE/NW (User Equipment/Network), DCSF (Data Channel Steering Function) API, and identity considerations.
+Usecases: Bootstrap DC media, coexistence with legacy devices, DCSF API, identity management.
+Examples: Bootstrap DC only media, coexistence with legacy UE/NW, DCSF API, identity handling.
+Unique keywords: NG_RTC_Ph2, bootstrap DC, coexistence, DCSF, identity management.
+Company Name: NTT DOCOMO
+Company Block Name: Operators
+
+TOPIC: XRM_Ph2
+Definition: NTT DOCOMO is interested in enhancing the XRM (Extended Reality Media) features introduced in Release 18. This includes aspects such as harmonization of architecture for XRM, TSC (Time-Sensitive Communication), and TSN (Time-Sensitive Networking), handling of traffic based on encrypted protocols like QUIC, and considerations for high mobility scenarios.
+Usecases: XRM enhancement, architecture harmonization, handling of encrypted traffic, high mobility scenarios.
+Examples: Architecture harmonization for XRM, QUIC-based traffic handling, considerations for high mobility.
+Unique keywords: XRM_Ph2, architecture harmonization, encrypted traffic, QUIC, high mobility.
+Company Name: NTT DOCOMO
+Company Block Name: Operators
+
+TOPIC: TRS_URLLC_enh
+Definition: NTT DOCOMO is interested in wrapping up the work on TRS (Time-Sensitive Networking) for Ultra-Reliable Low-Latency Communication (URLLC) introduced in Release 18.
+Usecases: Ultra-Reliable Low-Latency Communication, TRS enhancement.
+Examples: URLLC communication, TRS improvements.
+Unique keywords: TRS_URLLC_enh, URLLC, TRS.
+Company Name: NTT DOCOMO
+Company Block Name: Operators
+
+TOPIC: AI/ML
+Definition: NTT DOCOMO is interested in enhancing the AI/ML (Artificial Intelligence/Machine Learning) features introduced in Release 18, specifically focusing on the use of AI for air interface and positioning, robustness analytics, and the progress of the AI/ML framework. They propose allowing the use of operator custom AI models and engines.
+Usecases: AI for air interface and positioning, robustness analytics, AI/ML framework progress.
+Examples: AI-enabled air interface, robustness analytics, operator custom AI models.
+Unique keywords: AI/ML, air interface, positioning, robustness analytics, custom AI models.
+Company Name: NTT DOCOMO
+Company Block Name: Operators
+
+TOPIC: Energy efficiency
+Definition: NTT DOCOMO is interested in enhancing energy efficiency, particularly in the capacity booster aspect of TS 38.300. They seek to provide support for energy saving with assistance from the core network (CN).
+Usecases: Energy saving, capacity booster, core network assistance.
+Examples: Energy-efficient capacity booster, CN-assisted energy saving.
+Unique keywords: Energy efficiency, capacity booster, core network, CN assistance.
+Company Name: NTT DOCOMO
+Company Block Name: Operators
+
+TOPIC: ISC(Sensing)
+Definition: NTT DOCOMO is interested in the successor of the SA1 Sensing work, focusing on CN-assisted RAN information, data collection enhancements, and security and privacy considerations.
+Usecases: CN-assisted RAN information, enhanced data collection, security and privacy in sensing.
+Examples: CN-assisted RAN info, improved data collection, secure sensing.
+Unique keywords: ISC(Sensing), CN-assisted, data collection, security, privacy.
+Company Name: NTT DOCOMO
+Company Block Name: Operators
+
+TOPIC: Ambient IoT
+Definition: NTT DOCOMO is interested in the successor of the SA1 Ambient IoT work, which involves new device types, simplified protocol stacks, and lightweight security and privacy measures.
+Usecases: New device types, simplified protocols, lightweight security and privacy.
+Examples: IoT device enhancements, simplified protocols, secure and private Ambient IoT.
+Unique keywords: Ambient IoT, device types, protocol stacks, security, privacy.
+Company Name: NTT DOCOMO
+Company Block Name: Operators
+
+TOPIC: 5GS Study on user plane redundancy for IP
+Definition: Ericsson is interested in studying user plane redundancy for IP in 5GS. This includes exploring redundant paths using multiple UEs or dual connectivity, implementing Packet Replication, Elimination, and Ordering Function (PREOF) at the UPF (User Plane Function) and terminal device/host, and considering the involvement of DetNet (Deterministic Networking) controllers. The objective is to improve the reliability and redundancy of the user plane in IP-based communication.
+Usecases: User plane redundancy, redundant paths, PREOF, DetNet controllers.
+Examples: Redundant user plane paths, PREOF implementation, involvement of DetNet controllers.
+Unique keywords: User plane redundancy, IP, redundant paths, PREOF, DetNet controllers.
+Company Name: Ericsson
+Company Block Name: Vendors
+
+TOPIC: MASQUE for Enhanced Traffic Management
+Definition: Ericsson is interested in studying MASQUE technology for enhanced traffic management in the 5GS. This includes explicit information exchange on fully encrypted traffic, benefiting traffic management and other 5GC functions. The study aims to determine the necessary provisioning and integration of MASQUE capabilities, ensuring efficient user plane transmission and compatibility with different types of MASQUE deployments.
+Usecases: Enhanced traffic management, explicit information exchange, user plane data reporting, PCC framework integration.
+Examples: MASQUE-enabled traffic detection, user plane data analytics, integration with the PCC framework.
+Unique keywords: MASQUE, traffic management, encrypted traffic, user plane data, PCC framework.
+Company Name: Ericsson
+Company Block Name: Vendors
+
+TOPIC: Study on delegation of (re)selection of target NF across PLMNs
+Definition: Ericsson is interested in studying the delegation of (re)selection of target Network Functions (NF) across Public Land Mobile Networks (PLMNs). The study aims to validate the benefits of delegating the logic for selecting or reselecting target destinations from the NF to a different target PLMN. It involves analyzing communication models, identifying responsible elements, and proposing necessary updates to procedures and interfaces.
+Usecases: Delegation of target NF selection/reselection, communication models, inter-PLMN logic.
+Examples: Delegated target destination logic, communication via the SCP, inter-PLMN delegation.
+Unique keywords: Delegation of selection, target NF, communication models, inter-PLMN logic.
+Company Name: Ericsson
+Company Block Name: Vendors
+
+TOPIC: Study on Roaming Value Added Services
+Definition: Ericsson is interested in studying the stage 2 aspects of Roaming Value Added Services (RVAS) enabled by the PLMN (Public Land Mobile Network). This study focuses on specific RVAS, such as Welcome SMS, Steering of Roaming (SoR) during registration, and subscription-based routing to a particular core network. The objective is to define the necessary stage 2 details for these RVAS in the 5GS.
+Usecases: Roaming Value Added Services, Welcome SMS, Steering of Roaming, subscription-based routing.
+Examples: Welcome SMS during roaming, optimized roaming registration, customized core network routing.
+Unique keywords: Roaming Value Added Services, Welcome SMS, Steering of Roaming, subscription-based routing.
+Company Name: Ericsson
+Company Block Name: Vendors
+
+TOPIC: Study on IMS event exposure framework
+Definition: Ericsson is interested in studying the IMS (IP Multimedia Subsystem) event exposure framework. This study focuses on mechanisms for external API invokers to subscribe to specific events related to IMS subscribers, such as call-state changes. The study includes event subscription procedures, identification of relevant IMS events, locator functionality, and synergies with the Network Exposure Framework defined in the 5GS.
+Usecases: IMS event subscription, external API invokers, call-state monitoring, event exposure.
+Examples: Subscription to IMS user call-state events, integration with external systems for fraud detection.
+Unique keywords: IMS event exposure, event subscription, external API invokers, call-state monitoring.
+Company Name: Ericsson
+Company Block Name: Vendors
+
+TOPIC: Study on 3rd party call id in IMS Sessions
+Definition: Ericsson is interested in finding a solution for the use of 3rd party call IDs in IMS sessions. The objective is to enable the originating IMS network to sign the 3rd party IDs and for the terminating IMS network to verify them. The study will involve security aspects and collaboration with SA3 for the required security considerations.
+Usecases: 3rd party call IDs in IMS sessions, signing and verification, security considerations.
+Examples: Originating IMS network signing 3rd party IDs, terminating IMS network verifying 3rd party IDs.
+Unique keywords: 3rd party call ID, IMS sessions, signing, verification, security considerations.
+Company Name: Ericsson
+Company Block Name: Vendors
+
+TOPIC: Minimize the number of Policy Associations
+Definition: Ericsson aims to minimize the establishment of Policy Associations in the 5GS. This involves extending the Access and Mobility Subscription Data Type to indicate the reception of UE Policies or AM Policies, triggering policy associations based on subscription data, and considering the establishment of associations for UE and SM Policies. The objective is to reduce the number of Policy Associations while ensuring effective policy provisioning.
+Usecases: Minimization of Policy Associations, reception of UE and AM Policies, effective policy provisioning.
+Examples: Reduction of AM and UE Policy Associations, streamlined policy provisioning.
+Unique keywords: Minimize Policy Associations, UE Policies, AM Policies, effective provisioning.
+Company Name: Ericsson
+Company Block Name: Vendors
+
