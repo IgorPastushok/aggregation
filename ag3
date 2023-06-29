@@ -1,0 +1,351 @@
+TOPIC: Ambient IoT
+Definition: Huawei is interested in the support of Ambient IoT in the 5G system, targeting battery-less devices. The objectives include updating the architecture to accommodate different types of Ambient IoT devices, enabling device identification, registration, and connection management, and providing services such as asset tracking, sensor data reporting, and charging. The goal is to reduce device cost and power consumption while ensuring security and efficient management.
+Usecases: Asset tracking, sensor data reporting, battery-less devices, device identification.
+Examples: Asset management in various industries, sensor data collection in power and manufacturing sectors.
+Unique keywords: Ambient IoT, battery-less devices, asset tracking, sensor data reporting, device management.
+Company Name: Huawei
+Company Block Name: Vendors
+
+TOPIC: Integrated Sensing & Communications
+Definition: Huawei aims to define an end-to-end architecture for the 5GS to support NR-based sensing capabilities. The objectives include enhancing the overall architecture, enabling sensing service authorization and control, facilitating sensing data collection and exposure, and addressing security considerations. The study involves collaboration across multiple 3GPP entities to enable efficient sensing services.
+Usecases: NR-based sensing, sensing service authorization, sensing data collection, data exposure.
+Examples: Sensing services for environment monitoring, enhanced data collection for analytics.
+Unique keywords: Integrated sensing, NR-based sensing, sensing service authorization, data exposure.
+Company Name: Huawei
+Company Block Name: Vendors
+
+TOPIC: NG-RTC+ (Next Generation Real-Time Communication)
+Definition: Huawei intends to enhance the IMS (IP Multimedia Subsystem) network architecture, interfaces, and procedures for the NG-RTC. The objectives include supporting interworking and roaming of IMS data channels, enabling IMS data channels in emergency calls, exposing IMS real-time communication to third parties, and facilitating use cases for metaverse applications like XR immersive communication.
+Usecases: IMS data channels, interworking, roaming, real-time communication, metaverse.
+Examples: Enabling IMS data channels during emergency calls, integrating IMS communication with XR applications.
+Unique keywords: NG-RTC, IMS data channels, interworking, metaverse, XR immersive communication.
+Company Name: Huawei
+Company Block Name: Vendors
+
+TOPIC: Enhancement of Edge Computing EC+
+Definition: Huawei aims to enhance the deployment and management of Edge Computing (EC) in large areas. The objectives include improving EAS (Edge Application System) discovery, consecutive traffic steering, and local traffic routing in both roaming and non-roaming scenarios. The enhancements aim to optimize the performance and efficiency of edge networks.
+Usecases: Edge Computing, EAS discovery, traffic steering, local traffic routing.
+Examples: Enhanced management of edge networks, optimized traffic routing in different scenarios.
+Unique keywords: Edge Computing, EAS discovery, traffic steering, local traffic routing.
+Company Name: Huawei
+Company Block Name: Vendors
+
+TOPIC: XRM+ (eXtended Reality Media)
+Definition: Huawei plans to extend the concept of PDU Sets in the context of eXtended Reality Media (XRM). The objectives include supporting encrypted media traffic, enhancing traffic detection and QoS flow mapping for mixed data flows, enabling fast and efficient information exchanges between the 5G system and application layer, and notifying XR user experience assessment. The aim is to improve the performance and capabilities of XRM services.
+Usecases: eXtended Reality Media, encrypted media traffic, traffic detection, information exchanges.
+Examples: Support for encrypted media streams, efficient mapping of data flows, improved XR user experience.
+Unique keywords: XRM, PDU Sets, encrypted media traffic, data flow mapping, XR user experience.
+Company Name: Huawei
+Company Block Name: Vendors
+
+TOPIC: AIML+ (Artificial Intelligence and Machine Learning)
+Definition: Huawei seeks to enhance the Network Data Analytics Function (NWDAF) to provide intelligent recommendations to 5G Core Network Functions (NFs) based on global information. The objectives include coordination among multiple NFs, avoidance of conflicting actions, and leveraging network analysis for improved QoS decisions and parameter adjustments. The aim is to enhance AI/ML capabilities in the 5G network.
+Usecases: Network Data Analytics, intelligent recommendations, coordination among NFs, QoS decisions.
+Examples: Intelligent recommendations for policy decisions, optimized network actions based on global information.
+Unique keywords: AIML, NWDAF, intelligent recommendations, network analysis, QoS decisions.
+Company Name: Huawei
+Company Block Name: Vendors
+
+TOPIC: Advanced Industrial Internet of Things
+Definition: Huawei aims to enhance Ultra-Reliable Low Latency Communications (URLLC) for the Industrial Internet of Things (IoT). The objectives include capacity and latency performance improvements, support for duplication redundancy, integration of 5G VN (Virtual Network) with legacy LAN (Local Area Network), and time synchronization services for cooperative groups. The goal is to enable reliable and efficient IoT deployments in industrial environments.
+Usecases: Industrial IoT, URLLC enhancements, duplication redundancy, integration with legacy LAN.
+Examples: Reliable IoT communication in industrial settings, synchronized operations in cooperative groups.
+Unique keywords: Advanced Industrial IoT, URLLC enhancements, duplication redundancy, time synchronization.
+Company Name: Huawei
+Company Block Name: Vendors
+
+TOPIC: Mobile VPN
+Definition: Huawei focuses on enabling user identity for non-SIM devices behind 3GPP UEs and facilitating remote access to private networks. The objectives include authentication and authorization of devices, support for differentiated QoS and policies, and efficient traffic routing between remote UEs and devices within the VPN. The aim is to enhance secure and seamless connectivity for mobile VPN deployments.
+Usecases: Mobile VPN, user identity, remote access, differentiated QoS, traffic routing.
+Examples: Secure connectivity for remote devices, customized policies for mobile VPN users.
+Unique keywords: Mobile VPN, user identity, remote access, differentiated QoS, traffic routing.
+Company Name: Huawei
+Company Block Name: Vendors
+
+TOPIC: Enhancement of Energy Efficiency
+Definition: Huawei aims to study the enhancement of energy efficiency evaluation in 5G networks and services. The objectives include considering multiple factors in energy efficiency assessment, exposing energy efficiency as a service, and improving energy consumption measurement for carbon emissions estimation. The goal is to optimize energy consumption and promote green energy usage in 5G networks.
+Usecases: Energy efficiency, energy consumption measurement, carbon emissions estimation.
+Examples: Energy-saving management, optimization of green energy usage in 5G networks.
+Unique keywords: Energy efficiency, energy consumption, green energy, carbon emissions.
+Company Name: Huawei
+Company Block Name: Vendors
+
+TOPIC: Support for Multiple Registrations in the 5G System
+Definition: Nokia is interested in enabling simultaneous registration of a UE to the 5GC via multiple NR accesses. This includes the registration of a UE to a single PLMN/SNPN, two different PLMNs/SNPNs, or one PLMN and one SNPN. The objectives involve defining architectural and procedural enhancements to support this feature, enabling UE mobility between 5GS and EPS, and supporting mobile services (data, voice, SMS, LCS) when the UE is registered via multiple NR accesses and potentially one non-3GPP access.
+Usecases: Simultaneous registration, multiple NR accesses, mobility, mobile services.
+Examples: UE using services in two networks simultaneously, traffic aggregation over multiple accesses.
+Unique keywords: Multiple registrations, NR accesses, mobility, UE services.
+Company Name: Nokia
+Company Block Name: Vendors
+
+TOPIC: ATSSS_Ph4 (Application Traffic Steering, Switching, and Splitting)
+Definition: Nokia aims to enhance ATSSS to enable traffic steering, splitting, switching, and duplicating over two 3GPP accesses and one non-3GPP access. The objectives include supporting MPQUIC for IP/Ethernet frames, utilizing QoS and congestion information for ATSSS decisions, and studying potential enhancements from Rel-18. The focus is on improving ATSSS functionalities and enhancing the handling of different traffic types.
+Usecases: Traffic steering, splitting, switching, duplication, MPQUIC support.
+Examples: Optimized traffic routing, efficient utilization of network resources, improved QoS.
+Unique keywords: ATSSS, traffic steering, MPQUIC, QoS, congestion.
+Company Name: Nokia
+Company Block Name: Vendors
+
+TOPIC: Energy Saving
+Definition: Nokia emphasizes the importance of energy saving in mobile networks to reduce operational costs and environmental impact. The objectives include dynamically pooling RAN resources among operators, adapting service provision to UE, leveraging 5GC NFs' energy states, and examining the system impact of energy efficiency criteria. The goal is to improve system behavior and reduce energy consumption in the 5G ecosystem.
+Usecases: Energy saving, RAN resource pooling, service adaptation, system impact.
+Examples: Dynamic energy management, optimized service delivery, reduced network energy consumption.
+Unique keywords: Energy saving, RAN resources, service adaptation, system behavior.
+Company Name: Nokia
+Company Block Name: Vendors
+
+TOPIC: Timing Resiliency & URLLC Enhancement
+Definition: Nokia focuses on enhancing time synchronization mechanisms and optimizing traffic with stringent latency, reliability, and redundancy requirements. The objectives include time synchronization enhancements for UEs in different states, mechanisms for supporting low-latency traffic with replication or duplication, and URSP rules for multi-UE and multi-PDU Session scenarios. The aim is to improve timing resiliency and address URLLC requirements effectively.
+Usecases: Time synchronization, latency requirements, redundancy, URLLC.
+Examples: Efficient time synchronization for UEs, optimized traffic handling for critical applications.
+Unique keywords: Timing resiliency, URLLC, replication, duplication, time synchronization.
+Company Name: Nokia
+Company Block Name: Vendors
+
+TOPIC: 5G Femto (Home gNB)
+Definition: Nokia focuses on defining the architecture and functional impacts of supporting 5G Femto (Home gNB) deployments. The objectives include designing the overall architecture, implementing Femto access control mechanisms, enabling subscriber provisioning and management, and facilitating access to local services via integrated UPF in the Home gNB. The goal is to enhance indoor coverage, throughput, and user experience in residential and enterprise environments.
+Usecases: 5G Femto, Home gNB, access control, local services.
+Examples: Improved indoor coverage, enhanced voice quality, traffic offloading from macro network.
+Unique keywords: 5G Femto, Home gNB, access control, local services.
+Company Name: Nokia
+Company Block Name: Vendors
+
+TOPIC: XR Enhancements
+Definition: Nokia focuses on enhancing XR (Extended Reality) services in the 5GS, including layered media support, PDU Set delivery requirements, QoS handling, and power-saving for XR applications. The objectives also involve improving AF information classification, Uplink QoS, and ensuring compliance with SA1 requirements. The aim is to provide an immersive and seamless XR experience for users accessing local or remote content.
+Usecases: XR services, layered media, QoS handling, power-saving, AF classification.
+Examples: Improved XR content delivery, optimized QoS for XR applications, enhanced user experience.
+Unique keywords: XR enhancements, layered media, PDU Set, QoS handling, power-saving.
+Company Name: Nokia
+Company Block Name: Vendors
+
+TOPIC: Slicing Operational Improvements, Isolation, and SLA Security
+Definition: Nokia aims to improve network slicing deployments by supporting Network Slice Selection Assistance (NSSA), per-UE network slice priorities, simultaneous roaming in two VPLMNs, and mechanisms for enforcing isolation and security SLAs. The objectives involve enhancing existing features and providing open mechanisms for topology indication and security policy enforcement. The goal is to facilitate the deployment and management of network slicing in a secure and efficient manner.
+Usecases: Network slicing, NSSA, network slice priorities, roaming, isolation, SLA security.
+Examples: Dynamic network slice selection, optimized resource allocation, secure slice operations.
+Unique keywords: Slicing improvements, NSSA, network slice priorities, isolation, SLA security.
+Company Name: Nokia
+Company Block Name: Vendors
+
+TOPIC: 5GC Enhancements for IP Routing
+Definition: Nokia addresses IP routing scenarios in corporate environments where the same IP subnet may be reachable behind multiple UEs. The objectives include enabling connectivity to the same IP subnet via multiple UEs, participating in IETF IP routing protocols, and enhancing IP route selection and steering influenced by AF. The aim is to optimize IP routing and forwarding in the 5GS for improved connectivity and traffic management.
+Usecases: IP routing, connectivity, IETF protocols, route selection, traffic steering.
+Examples: Efficient IP subnet connectivity, optimized routing decisions, enhanced traffic control.
+Unique keywords: 5GC enhancements, IP routing, IETF protocols, route selection, traffic steering.
+Company Name: Nokia
+Company Block Name: Vendors
+
+TOPIC: AI/ML Trustworthiness
+Definition: Nokia emphasizes the importance of trustworthiness in AI/ML applications within the 5GC, particularly for data used by MTLF and AnLF, and the ML models provided by MTLF. The objectives involve studying trustworthiness aspects and ensuring compliance with trustworthy AI principles. The goal is to establish standards for secure and reliable AI/ML operations in the 5G network.
+Usecases: AI/ML, trustworthiness, data integrity, ML models, analytics.
+Examples: Secure ML data processing, reliable AI model deployment, trusted analytics functions.
+Unique keywords: AI/ML trustworthiness, data integrity, ML models, analytics.
+Company Name: Nokia
+Company Block Name: Vendors
+
+TOPIC: Edge Computing
+Definition: Nokia focuses on supporting local traffic offload in EPC, leveraging HPLMN for private DNS server IPs, and ensuring local control and traffic influence in edge computing scenarios. The objectives include architectural enhancements, leveraging HR SBO concepts, and facilitating local traffic offload for corporate networks. The aim is to optimize traffic management and enable localized services in edge computing environments.
+Usecases: Edge computing, local traffic offload, HPLMN, local control.
+Examples: Efficient traffic management, localized service delivery, improved network performance.
+Unique keywords: Edge computing, traffic offload, HR SBO, local control, localized services.
+Company Name: Nokia
+Company Block Name: Vendors
+
+TOPIC: Enhanced 5G Core Support for AI/ML
+Definition: Samsung focuses on specifying interworking and coordination of cross-domain AI/ML functionalities within the 5GC. The objectives include architecture extensions, functional enhancements, and support for AI/ML-based recommendations. The aim is to enhance the robustness and resilience of the 5GC by addressing potential network "misbehavior" use cases and leveraging AI/ML capabilities.
+Usecases: AI/ML coordination, cross-domain functionalities, network misbehavior, AI/ML recommendations.
+Examples: Improved AI/ML collaboration, enhanced network resilience, efficient recommendation capabilities.
+Unique keywords: Enhanced 5G Core, AI/ML support, coordination, cross-domain functionalities, network misbehavior.
+Company Name: Samsung
+Company Block Name: Vendors
+
+TOPIC: Architecture Enhancement for 5G Mobile Metaverse
+Definition: Samsung focuses on enhancing the system architecture to support localized mobile metaverse services. The objectives include improvements in avatar communications, digital identity authentication, end-to-end QoS control, IMS data channel support, and NRF support. The goal is to enable seamless and immersive experiences in mobile metaverse services within the 5G system.
+Usecases: Mobile metaverse, avatar communications, digital identity, QoS control, IMS data channel.
+Examples: Seamless avatar communication, secure digital identity authentication, optimized QoS control.
+Unique keywords: Mobile metaverse, avatar communications, digital identity, QoS control, IMS data channel.
+Company Name: Samsung
+Company Block Name: Vendors
+
+TOPIC: Energy Use Control and Efficiency
+Definition: Samsung emphasizes the need for enhancements to enable energy use control and improve efficiency in the 5G advanced network. The objectives include investigating architectural impacts, studying functional extensions, and supporting energy efficiency functions defined in other groups. The aim is to enable efficient energy use without compromising service quality or performance.
+Usecases: Energy use control, energy efficiency, service supervision, energy-aware network.
+Examples: Efficient energy utilization, optimized energy management, improved service supervision.
+Unique keywords: Energy use control, energy efficiency, service supervision, energy-aware network.
+Company Name: Samsung
+Company Block Name: Vendors
+
+TOPIC: Study on Satellite Access Phase 3
+Definition: Samsung focuses on studying mechanisms to support disaster roaming, improve emergency services, and enable store and forward capabilities in satellite access scenarios. The objectives include architectural enhancements, mobility restrictions enforcement, and providing satellite coverage availability information. The aim is to enhance the reliability and performance of satellite access in the 5G system.
+Usecases: Satellite access, disaster roaming, emergency services, store and forward, satellite coverage.
+Examples: Reliable satellite communication during emergencies, optimized store and forward mechanisms.
+Unique keywords: Satellite access, disaster roaming, emergency services, store and forward, satellite coverage.
+Company Name: Samsung
+Company Block Name: Vendors
+
+TOPIC: Architecture Enhancement for XR and Media Services Phase 2
+Definition: Samsung aims to enhance the architecture for XR (Extended Reality) and media services in the 5G system. The objectives include improvements in PDU Set handling, QoS handling, non-3GPP access support, and high mobility and capacity support. The goal is to provide an enriched and seamless experience for XR and media applications.
+Usecases: XR services, media services, PDU Set handling, QoS handling, non-3GPP access.
+Examples: Enhanced XR content delivery, optimized QoS for media services, improved user experience.
+Unique keywords: XR and media services, PDU Set handling, QoS handling, non-3GPP access.
+Company Name: Samsung
+Company Block Name: Vendors
+
+TOPIC: Access Traffic Steering, Switching, and Splitting Support in 5G System Architecture Phase 4
+Definition: Samsung focuses on studying mechanisms to support access traffic steering, switching, and splitting across 3GPP accesses. The objectives include supporting MA PDU Sessions with multiple 3GPP and non-3GPP accesses, architectural enhancements for simultaneous registration via multiple NR accesses, and lightweight access aggregation and steering for Wi-Fi. The aim is to optimize traffic management and enable seamless connectivity.
+Usecases: Traffic steering, switching, splitting, MA PDU Sessions, simultaneous registration, lightweight access.
+Examples: Efficient traffic management across different accesses, improved registration process.
+Unique keywords: Access traffic steering, switching, splitting, MA PDU Sessions, simultaneous registration.
+Company Name: Samsung
+Company Block Name: Vendors
+
+TOPIC: Advanced Industrial Internet of Things
+Definition: Samsung aims to resolve challenges related to industrial IoT and enhance the 5GS for industrial applications. The objectives include improving transmission efficiency and URLLC performance, supporting time synchronization service, integrating 5G VN with legacy LAN, and enabling dynamic routing among multiple SMF domains. The goal is to optimize industrial IoT deployments and meet specific industry requirements.
+Usecases: Industrial IoT, transmission efficiency, URLLC performance, time synchronization, dynamic routing.
+Examples: Enhanced connectivity for industrial applications, improved synchronization in industrial settings.
+Unique keywords: Industrial IoT, transmission efficiency, URLLC performance, time synchronization.
+Company Name: Samsung
+Company Block Name: Vendors
+
+TOPIC: UPF Enhancement for Exposure and SBA Phase 2
+Definition: Samsung focuses on studying enhanced UPF event exposure services, modular design and deployment of the user plane, and enhancing the interface between UPF and AF using User Plane (UP) based SBI. The objectives include supporting QoS-related information exposure, modular UPF design, and improved UPF-AF interface. The aim is to enhance the functionality and flexibility of the user plane function.
+Usecases: UPF enhancement, event exposure, modular design, UPF-AF interface.
+Examples: Improved QoS management, flexible user plane deployment, enhanced UPF-AF communication.
+Unique keywords: UPF enhancement, event exposure, modular design, UPF-AF interface.
+Company Name: Samsung
+Company Block Name: Vendors
+
+TOPIC: Enhancement of Support for Edge Computing in 5G Core Network Phase 3
+Definition: Samsung focuses on reducing the impact on central network functions, enhancing local traffic routing for edge computing, and supporting multiple edge networks within a single PDU Session. The objectives include localized control of edge computing, optimized traffic routing, and efficient utilization of edge resources. The aim is to enable efficient edge computing and improve network performance.
+Usecases: Edge computing, localized control, local traffic routing, edge network utilization.
+Examples: Optimized edge resource allocation, efficient local traffic management.
+Unique keywords: Edge computing, localized control, local traffic routing, edge network utilization.
+Company Name: Samsung
+Company Block Name: Vendors
+
+TOPIC: 5G Support for Femto (HgNB)
+Definition: Samsung aims to define the overall architecture and required functional and procedural impacts for supporting 5G Femto deployments. The objectives include defining the Femto access control mechanism, enabling subscriber provisioning for Femto cells, and supporting access to local services via an integrated UPF in the HgNB. The goal is to enhance the deployment and management of 5G Femto cells.
+Usecases: 5G Femto, access control, subscriber provisioning, local services, HgNB.
+Examples: Efficient management of Femto deployments, improved access control mechanisms.
+Unique keywords: 5G Femto, access control, subscriber provisioning, local services, HgNB.
+Company Name: Samsung
+Company Block Name: Vendors
+
+TOPIC: Improvement of Network Slicing
+Definition: Samsung focuses on studying and enhancing network slicing to support slice re-assignment, improved networkslice handling for PDN connection, NSSRG restrictions across different access types and PLMNs, and per-UE networkslice priorities. The aim is to provide more flexible and efficient network slicing capabilities to meet different service requirements.
+Usecases: Network slicing, slice re-assignment, networkslice handling, NSSRG restrictions, per-UE priorities.
+Examples: Dynamic networkslice allocation, optimized networkslice handling based on service requirements.
+Unique keywords: Network slicing, slice re-assignment, networkslice handling, NSSRG restrictions.
+Company Name: Samsung
+Company Block Name: Vendors
+
+TOPIC: Study on Application Enablement for Localized Mobile Metaverse Services
+Definition: Samsung aims to study the requirements for application framework and enabling layer platform architecture to support localized mobile metaverse services. The objectives include application enablement for avatars, spatial anchors, spatial mapping and localization, application discovery, service continuity, and communication for users with disabilities. The goal is to provide a robust and inclusive platform for mobile metaverse services.
+Usecases: Mobile metaverse, avatar communication, spatial mapping, application enablement.
+Examples: Seamless application integration in mobile metaverse, enhanced accessibility features.
+Unique keywords: Mobile metaverse, avatar communication, spatial mapping, application enablement.
+Company Name: Samsung
+Company Block Name: Vendors
+
+TOPIC: Study on Application Enablement for Satellite Access Enabled 5G Services
+Definition: Samsung aims to identify the impacts and necessary changes to existing enabler specifications for supporting satellite access in 5G. The objectives include enabling applications to work over both terrestrial and satellite networks, addressing issues related to application group spanning users under heterogeneous connectivity, user mobility, and AF influence in satellite access selection. The goal is to facilitate the deployment of satellite access-enabled 5G services.
+Usecases: Satellite access, heterogeneous connectivity, application enablement, user mobility.
+Examples: Seamless service continuity across terrestrial and satellite networks, optimized user experience.
+Unique keywords: Satellite access, heterogeneous connectivity, application enablement, user mobility.
+Company Name: Samsung
+Company Block Name: Vendors
+
+TOPIC: Architecture for Enabling Edge Applications Phase 3
+Definition: Samsung aims to enhance the architecture for enabling edge applications in the 5G system. The objectives include supporting multi-AC scenarios, discovery of common EAS from federated partners, dynamic EAS instantiation, bundled EAS in federation and roaming, exposing EAS service APIs across multiple EDNs, and ensuring service continuity for common EAS and EdgeNode sharing. The goal is to enable efficient and seamless deployment of edge applications.
+Usecases: Edge applications, multi-AC scenarios, EAS federation, service continuity, EAS service APIs.
+Examples: Optimized deployment of edge applications, seamless service continuity across edge networks.
+Unique keywords: Edge applications, multi-AC scenarios, EAS federation, service continuity.
+Company Name: Samsung
+Company Block Name: Vendors
+
+TOPIC: Study on Application Layer Support for AI/ML Services
+Definition: Samsung focuses on studying new or enhanced enablers for supporting AI/ML services. The objectives include supporting federated learning, various modes of split inferencing/learning, investigating impacts of AI/ML application layer support, and enabling AI/ML operations over the edge using EDGEAPP. The goal is to enhance the capabilities and efficiency of AI/ML services in the 5G system.
+Usecases: AI/ML services, federated learning, split inferencing, AI/ML operations over the edge.
+Examples: Optimized AI/ML model distribution, efficient AI/ML operations in edge computing.
+Unique keywords: AI/ML services, federated learning, split inferencing, AI/ML operations.
+Company Name: Samsung
+Company Block Name: Vendors
+
+TOPIC: Dual Steer
+Definition: Dual Steer involves enhancing the 5G system architecture to support an MA PDU Session that can simultaneously accommodate two 3GPP access paths. These paths can be within the same PLMN or in different 3GPP networks. The objective is to enable the MA PDU Session to have one 3GPP access path via a specific PLMN and another 3GPP access path via another PLMN or SNPN. The UE registers with both PLMNs using the same 3GPP subscription credentials.
+Use Cases: Simultaneous support for two 3GPP access paths, seamless mobility between different access configurations, enhanced registration and session management, optimized routing of MA PDU Session traffic.
+Examples: Selecting the second PLMN or SNPN in case of different 3GPP networks, supporting mobility between different access configurations, routing traffic towards the PSA UPF, extending policies and steering functionalities.
+Unique Keywords: Dual Steer, MA PDU Session, 3GPP access paths, PLMN, SNPN, UE registration, session management, mobility, routing, policies, steering.
+Company Name: Qualcomm
+Company Block Name: Vendors
+
+TOPIC: VMR Phase 2
+Definition: VMR Phase 2 focuses on advancing the functionalities of base station relays mounted on vehicles. The objectives include investigating gaps in supporting full gNB/CU onboard of a relay, enabling mobility for onboard gNB/CU using a PDU session for wireless backhauling, specifying architecture enhancements for authorization and QoS support, facilitating Cell ID/TAC management, enabling support for UE location services and emergency services, enabling NTN backhaul for VMR, facilitating access to onboard services/edge computing, and extending UAV functionality to VMR.
+Use Cases: Base station relays on vehicles, wireless backhauling, mobility support, authorization, QoS, location services, emergency services, NTN backhaul, access to onboard services/edge computing, UAV functionality.
+Examples: Full gNB/CU onboard relay with wireless backhauling, mobility support using PDU session, architecture enhancements for authorization and QoS, Cell ID/TAC management, UE location services and emergency services, NTN backhaul, access to onboard services/edge computing, extending UAV functionality to VMR.
+Unique Keywords: VMR Phase 2, base station relays, gNB/CU, PDU session, wireless backhauling, mobility, authorization, QoS, location services, emergency services, NTN backhaul, onboard services, edge computing, UAV functionality.
+Company Name: Qualcomm
+Company Block Name: Vendors
+
+TOPIC: Generalized framework of data collection from UE
+Definition: The study focuses on designing a generalized framework for collecting data from UEs in the 5G system. It involves exploring the architecture and procedures for data collection, ensuring visibility and control of data by operators, and enabling ML model training and transfer. The goal is to establish a common framework that meets the requirements of different working groups and facilitates data collection and storage for RAN AI/ML purposes.
+Use Cases: Data collection from UEs, ML model training and transfer, common framework, visibility and control of data, RAN AI/ML purposes.
+Examples: Designing the architecture for data collection and storage, enabling ML model training and transfer, common framework across working groups, visibility and control of data, RAN AI/ML use cases.
+Unique Keywords: Generalized framework, data collection, ML model training, ML model transfer, visibility, control, RAN AI/ML, common framework.
+Company Name: Qualcomm
+Company Block Name: Vendors
+
+TOPIC: Architecture Enhancements for Advanced Air Mobility in Cellular Environment
+Definition: This study focuses on identifying architectural and system-level enhancements for the ecosystem of AAM (Advanced Air Mobility) aerial vehicles. The objectives include enhancing NEF services to support data services between MNOs and UTM functions, enabling network-assisted/ground-based DAA solutions, studying multi-PLMN connectivity for redundancy, supporting the C2CSP model, and studying architectural enhancements for UTM configuration in different aerial flight zones.
+Use Cases: AAM aerial vehicles, NEF services, data services, UTM functions, network-assisted DAA solutions, multi-PLMN connectivity, C2CSP model, UTM configuration.
+Examples: Enhancing NEF services for pre-mission flight planning, in-mission flight monitoring, and interfacing with UTM infrastructure, network-assisted DAA solutions leveraging 5GS information, multi-PLMN connectivity for redundancy, supporting the C2CSP model, architectural enhancements for UTM configuration.
+Unique Keywords: Advanced Air Mobility, NEF services, data services, UTM functions, DAA solutions, multi-PLMN connectivity, C2CSP model, UTM configuration.
+Company Name: Qualcomm
+Company Block Name: Vendors
+
+TOPIC: Further enhancements for XR services
+Definition: This topic focuses on extending the framework for XR (Extended Reality) services to address specific requirements. It includes enhancing application layer support for XR, addressing the absolute delivery time of display, improving adaptability of 5GS QoS for XR traffic, and refining the handling of PDU-set latency requirements.
+Use Cases: XR services, application layer support, PDU-set latency, 5GS QoS, display delivery time.
+Examples: AL-FEC awareness in RAN for PDU-set error detection and optimization, addressing absolute delivery time of display, enhancing 5GS QoS for XR traffic, refining latency requirements.
+Unique Keywords: XR services, application layer support, AL-FEC, PDU-set latency, 5GS QoS, display delivery time.
+Company Name: Qualcomm
+Company Block Name: Vendors
+
+TOPIC: Lightweight Access Aggregation and Steering of Wi-Fi in 5GC
+Definition: This topic focuses on enhancing the 5G system architecture to support access traffic aggregation and steering for non-integrated Wi-Fi networks. The objective is to define a new architecture for lightweight access aggregation and steering without requiring the deployment of TNGFs/N3IWFs, and introduce the concept of Non-Integrated Aggregated (NIA) PDU Session using IETF RFC protocols.
+Use Cases: Access traffic aggregation, steering, non-integrated Wi-Fi networks, NIA PDU Session.
+Examples: New architecture for lightweight access aggregation and steering, non-integrated Wi-Fi support, NIA PDU Session establishment and modification, coordination of traffic aggregation and steering, MPTCP/MPQUIC proxy functionality.
+Unique Keywords: Lightweight Access Aggregation, Steering, Non-integrated Wi-Fi, NIA PDU Session, TNGF, N3IWF.
+Company Name: Qualcomm
+Company Block Name: Vendors
+
+TOPIC: Timing as a Service and Timing Resiliency for NB-IoT and eMTC
+Definition: This topic focuses on enabling timing as a service and timing resiliency for NB-IoT and eMTC (terrestrial and non-terrestrial). It involves studying selective reference time delivery based on subscription, enhancing subscription control, providing clock quality information, supporting propagation delay compensation, and improving timing resiliency in 5GS.
+Use Cases: Timing as a service, timing resiliency, NB-IoT, eMTC, selective reference time delivery, clock quality, propagation delay compensation.
+Examples: Enhancing subscription control for timing delivery, providing clock quality information, supporting propagation delay compensation, improving timing resiliency.
+Unique Keywords: Timing as a service, timing resiliency, NB-IoT, eMTC, reference time, clock quality, propagation delay compensation.
+Company Name: Qualcomm
+Company Block Name: Vendors
+
+TOPIC: Enhancements in handling of Radio Capabilities
+Definition: This topic focuses on enhancing the handling of radio capabilities in 5GS and EPS. The objectives include preventing UE access to unsupported RAT/systems, indicating UE to disable certain radio capabilities, enabling AFs to determine radio feature alignment, transferring radio capability information between AMF and MME, and addressing exceptions for emergency services.
+Use Cases: Radio capabilities handling, preventing UE access, radio feature alignment, radio capability transfer, emergency services.
+Examples: Preventing UE access to unsupported RAT/systems, indicating UE to disable specific radio capabilities, AFs determining radio feature alignment, radio capability information transfer, handling exceptions for emergency services.
+Unique Keywords: Radio capabilities, UE access, radio feature alignment, AMF, MME, emergency services.
+Company Name: Qualcomm
+Company Block Name: Vendors
+
+TOPIC: Integrated Sensing and Communication
+Definition: This topic focuses on providing sensing services over 5G systems, including NR-based sensing and non-3GPP sensors. The objectives include defining system architecture for sensing services, reusing/extending location service/positioning architecture, and defining procedures and signaling for collaborative sensing in both NR-sensing and non-3GPP sensing.
+Use Cases: Sensing services, NR-based sensing, non-3GPP sensors, system architecture, location service, collaborative sensing.
+Examples: System architecture for sensing services, location service/positioning enhancements, procedures and signaling for collaborative sensing.
+Unique Keywords: Sensing services, NR-based sensing, non-3GPP sensors, system architecture, location service, collaborative sensing.
+Company Name: Qualcomm
+Company Block Name: Vendors
+
+TOPIC: Energy Efficiency as a Service
+Definition: This topic focuses on offering energy efficiency as a service in communication networks. The objectives include introducing maximum energy credit limit per service, establishing an energy consumption reporting framework, incorporating energy consumption information in charging, and defining energy efficiency modes in policy information.
+Use Cases: Energy efficiency as a service, energy consumption reporting, charging based on energy consumption, energy efficiency modes.
+Examples: Maximum energy credit limit per service, energy consumption reporting framework, energy consumption information in charging, energy efficiency modes in policy information.
+Unique Keywords: Energy efficiency, energy consumption, charging, policy information.
+Company Name: Qualcomm
+Company Block Name: Vendors
